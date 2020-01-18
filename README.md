@@ -1,2 +1,2 @@
 # MoviesApp
-Movies App used for fetching list of movies
+App for fetching movies Information
